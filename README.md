@@ -1,4 +1,5 @@
-Sports Speed Calculator & Recorder
+# Moonlight (Sports Speed Calculator)
+
 A Java application with JavaFX front-end and MySQL database integration to calculate and record sports performance speeds.
 
 Features:
