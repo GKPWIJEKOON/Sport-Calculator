@@ -1,5 +1,7 @@
 # Calculator (Sports Speed Calculator)
 
+<p><a  href="https://github.com/Vihara-Diwyanjalee"><img  src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,mui,vscode,github"  width=350></a></p>
+
 A Java application with JavaFX front-end and MySQL database integration to calculate and record sports performance speeds.
 
 Features:
